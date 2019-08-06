@@ -13,7 +13,3 @@ O *dataset* utilizado pode ser encontrado no seguinte link, o material foi deisp
 https://www.kaggle.com/PROPPG-PPG/hourly-weather-surface-brazil-southeast-region
 
 Baixei o *dataset* e descompaquete dentro da pasta notebook
-
-## Uma dica valiosa
-
-https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
